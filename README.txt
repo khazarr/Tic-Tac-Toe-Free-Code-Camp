@@ -1,7 +1,3 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/khazarr/pen/mwLexj.
+Free Code Camp project: Tic Tac Toe Game
 
- 
-
-Free Code Camp projet
-
-CSS & Js & JQuery & HTML5 used
+In this version AI randomly pick a free spot on a filed. 
